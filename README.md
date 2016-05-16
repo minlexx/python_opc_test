@@ -1,2 +1,3 @@
 # python_opc_test
-Test python_opc_module
+Console and GUI test applications for python OPC module https://github.com/minlexx/python_opc_module
+
